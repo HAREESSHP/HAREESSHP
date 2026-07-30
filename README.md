@@ -52,44 +52,11 @@
 | VisionX | Club website & event platform |
 | DSA | Competitive programming solutions |
 
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HAREESSHP&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=HAREESSHP&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAREESSHP&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HAREESSHP&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/HAREESSHP/HAREESSHP/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-> Configure a GitHub Action later to generate the snake automatically.
-
----
-
 ## 📫 Connect
 
-- LinkedIn: https://www.linkedin.com/
-- Email: your-email@example.com
-- LeetCode: https://leetcode.com/
+- LinkedIn: https://www.linkedin.com/in/hareesh-ai-dev
+- Email: bagayithiharish@gmail.com
+- LeetCode: https://leetcode.com/u/Hareesh6/
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=HAREESSHP&style=for-the-badge"/>
